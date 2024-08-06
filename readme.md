@@ -1,4 +1,4 @@
-<img align="right" width="300" src="https://github.com/edgarbasurto/edgarbasurto/blob/master/img/home-banner-bg.png">
+<img align="right" width="300" src="./img/home-banner-bg.png">
 
 # Hola, soy Edgar Basurto.
 
